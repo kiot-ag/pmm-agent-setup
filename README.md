@@ -3,7 +3,7 @@
 `$ ssh host_name`  
 **Step-2 :** Configure repositories  
 `$ wget https://repo.percona.com/apt/percona-release_latest.generic_all.deb` 
- $ dpkg -i percona-release_latest.generic_all.deb  
+`$ dpkg -i percona-release_latest.generic_all.deb`    
 **Step-3 :** Install the PMM Client package  
 `$ sudo apt update`  
 `$ sudo apt install -y pmm2-client`  
