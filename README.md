@@ -13,3 +13,4 @@
 `$ pmm-admin config --server-insecure-tls --server-url=https://grafana_usr_name:grafana_usr_pass@monitoring_server_private_ip`  
 **Example** `$ pmm-admin config --server-insecure-tls --server-url=https://admin:abc@X.X.X.X`  
 
+
