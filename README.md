@@ -11,5 +11,5 @@
 `$ pmm-admin --version`  
 **Step-5 :** Register your client node with PMM Server  
 `$ pmm-admin config --server-insecure-tls --server-url=https://usr_name:usr_pass@server_ip`  
-**Example** `$ pmm-admin config --server-insecure-tls --server-url=https://admin:abc@X.X.X.X  
+**Example** `$ pmm-admin config --server-insecure-tls --server-url=https://admin:abc@X.X.X.X`    
 
