@@ -10,6 +10,6 @@
 **Step-4 :** Check pmm2-client installed or not  
 `$ pmm-admin --version`  
 **Step-5 :** Register your client node with PMM Server  
-`$ pmm-admin config --server-insecure-tls --server-url=https://usr_name:usr_pass@monitoring_server_private_ip`  
+`$ pmm-admin config --server-insecure-tls --server-url=https://grafana_usr_name:grafana_usr_pass@monitoring_server_private_ip`  
 **Example** `$ pmm-admin config --server-insecure-tls --server-url=https://admin:abc@X.X.X.X`    
 
